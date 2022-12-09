@@ -18,22 +18,19 @@ I'm a UC Berkeley Undergraduate currently learning Zero Knowledge Proof
 | <a href="https://github.com/Boyuan-Deng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Boyuan-Deng&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Boyuan's github stats" /></a> | <a href="https://github.com/Boyuan-Deng/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyuan-Deng&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+<!-- #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/Boyuan-Deng/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boyuan-Deng&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/Boyuan-Deng/Boyuan-Deng.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Boyuan-Deng&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <br />
-<br />
+<br /> -->
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://twitter.com/0xBoyuanD">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/Boyuan-Deng/Boyuan-Deng/main/assets/twitter.svg" />
 </a>
