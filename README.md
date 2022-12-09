@@ -11,7 +11,7 @@
 <br>
 <br>
 
-I'm a UC Berkeley Undergraduate currently learning Zero Knowledge Proof
+<u>I'm a UC Berkeley Undergraduate currently learning Zero Knowledge Proof</u>
 
 
 
