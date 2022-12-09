@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Boyuan-Deng"><img width="80%" alt="Hello, I'm Boyuan. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://github.com/Boyuan-Deng">Hello, I'm Boyuan.</p>
 
 <br />
 
