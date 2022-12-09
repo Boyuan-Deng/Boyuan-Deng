@@ -18,7 +18,7 @@
 
 - 💼 Fullstack Engineer at [p0xeidon labs](https://www.p0xeidon.xyz/)
 
-- ❤️ Learning Zero Knowledge Proof
+- ❤️ Learning Smart Contract Development
 
 - 🐻 EECS at UC Berkeley
 
