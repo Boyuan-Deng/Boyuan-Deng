@@ -1,6 +1,5 @@
-<h2 align="center" style="width:120px; height:40px">Hello, I'm Boyuan.</h1>
+<h1 align="center">Hello, I'm Boyuan.</h1>
 
-<br />
 
 I'm a UC Berkeley Undergraduate currently learning Zero Knowledge Proof
 
