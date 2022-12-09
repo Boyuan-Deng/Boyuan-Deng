@@ -8,10 +8,11 @@
 <a href="https://coda.io/@boyuan-deng/readings">
   <img align="right" alt="Boyuan Deng | Coda" width="21px" src="https://raw.githubusercontent.com/Boyuan-Deng/Boyuan-Deng/main/assets/coda.svg" />
 </a>
-
+<br>
 <br>
 
 I'm a UC Berkeley Undergraduate currently learning Zero Knowledge Proof
+<br>
 
 **About me**
 
