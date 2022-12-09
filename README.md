@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/Boyuan-Deng">Hello, I'm Boyuan.</p>
+<p align="center" height='40' width='120'>Hello, I'm Boyuan.</p>
 
 <br />
 
