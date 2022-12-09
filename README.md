@@ -1,4 +1,4 @@
-<p align="center" height='40' width='120'>Hello, I'm Boyuan.</p>
+<h1 align="center" height="40" width="120">Hello, I'm Boyuan.</h1>
 
 <br />
 
