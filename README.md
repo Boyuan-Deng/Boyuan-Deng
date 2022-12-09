@@ -1,12 +1,12 @@
 <h1 align="center">Hello, I'm Boyuan.</h1>
 <a href="https://twitter.com/0xBoyuanD">
-  <img align="center" alt="Boyuan Deng | Twitter" width="21px" src="https://raw.githubusercontent.com/Boyuan-Deng/Boyuan-Deng/main/assets/twitter.svg" />
+  <img align="right" alt="Boyuan Deng | Twitter" width="21px" src="https://raw.githubusercontent.com/Boyuan-Deng/Boyuan-Deng/main/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/boyuan-deng/">
-  <img align="center" alt="Boyuan Deng | Linkedin" width="21px" src="https://raw.githubusercontent.com/Boyuan-Deng/Boyuan-Deng/main/assets/linkedin.svg" />
+  <img align="right" alt="Boyuan Deng | Linkedin" width="21px" src="https://raw.githubusercontent.com/Boyuan-Deng/Boyuan-Deng/main/assets/linkedin.svg" />
 </a>
 <a href="https://coda.io/@boyuan-deng/readings">
-  <img align="center" alt="Boyuan Deng | Coda" width="21px" src="https://raw.githubusercontent.com/Boyuan-Deng/Boyuan-Deng/main/assets/coda.svg" />
+  <img align="right" alt="Boyuan Deng | Coda" width="21px" src="https://raw.githubusercontent.com/Boyuan-Deng/Boyuan-Deng/main/assets/coda.svg" />
 </a>
 <br>
 
