@@ -17,7 +17,7 @@
 **About me**
 - 💼 Founding Team at [FlowGPT](https://flowgpt.com/)
 
-- 💼 Prev Fullstack Engineer at [p0xeidon labs](https://p0xlabs.xyz/)
+- 🪙 Prev Fullstack Engineer at [p0x labs](https://p0xlabs.xyz/)
 
 - ❤️ Learning LLMs & AIGC
 
