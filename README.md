@@ -15,10 +15,11 @@
 <br?
 
 **About me**
+- 💼 Founding Team at [FlowGPT](https://flowgpt.com/)
 
-- 💼 Fullstack Engineer at [p0xeidon labs](https://www.p0xeidon.xyz/)
+- 💼 Prev Fullstack Engineer at [p0xeidon labs](https://www.p0xeidon.xyz/)
 
-- ❤️ Learning Smart Contract Development
+- ❤️ Learning LLMs & AIGC
 
 - 🐻 EECS at UC Berkeley
 
